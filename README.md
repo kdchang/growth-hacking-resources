@@ -2,9 +2,9 @@
 A collection of growth hacking resources.  
 
 ##關於Growth hacking（About Growth Hacking）
-Growth Hacking is a marketing technique developed by technology startups which use creativity, analytical thinking, and social metrics to sell products and gain exposure.
+[Growth Hacking](https://en.wikipedia.org/wiki/Growth_hacking) is a marketing technique developed by technology startups which use creativity, analytical thinking, and social metrics to sell products and gain exposure.
 
-成長駭客是行銷者與開發者的綜合體，當他們看待「我如何為產品找到用戶」這個問題時，答案通常是 A/B 測試、到達頁面、病毒擴散因素、email 到達率以及 Open Graph。
+成長駭客(Growth Hacker)是行銷者與開發者的綜合體，當他們看待「我如何為產品找到用戶」這個問題時，答案通常是 A/B 測試、到達頁面、病毒擴散因素、email 到達率以及 Open Graph。
 
 ##學習資源（Resources）
 1. [Growth Hacker資訊站](http://growthhackers.com/)
