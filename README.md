@@ -6,7 +6,7 @@ Growth Hacking is a marketing technique developed by technology startups which u
 成長駭客是行銷者與開發者的綜合體，當他們看待「我如何為產品找到用戶」這個問題時，答案通常是 A/B 測試、到達頁面、病毒擴散因素、email 到達率以及 Open Graph。
 
 ##學習資源（Resources）
-1.[Growth Hacker資訊站](http://growthhackers.com/)
+1. [Growth Hacker資訊站](http://growthhackers.com/)
 
 ##好用工具（Tools）
 1. [Mixpanel](https://mixpanel.com/)
