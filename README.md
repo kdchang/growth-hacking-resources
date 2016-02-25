@@ -20,6 +20,13 @@ A collection of growth hacking resources.
 ##值得關注的部落格和網路名人（People）
 1. [Andrew Chen](http://andrewchen.co)
 2. [Sean Ellis](http://www.startup-marketing.com/)
+3. [Noah Kagan](http://okdork.com)
+4. [Patrick Vlaskovits](http://vlaskovits.com/blog)
+5. [Jesse Farmer](http://20bits.com)
+6. [Paul Graham](http://www.paulgraham.com/articles.html)
+7. [Aaron Ginn](http://www.aginnt.com)
+8. [Josh Elman](https://medium.com/@joshelman)
+9. [Growth Hacker @Quota](https://www.quora.com/topic/GrowthHacking)
 
 ##參考書籍（Books）
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力](http://www.books.com.tw/products/0010707245)
