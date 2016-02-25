@@ -26,7 +26,7 @@ A collection of growth hacking resources.
 6. [Paul Graham](http://www.paulgraham.com/articles.html)
 7. [Aaron Ginn](http://www.aginnt.com)
 8. [Josh Elman](https://medium.com/@joshelman)
-9. [Growth Hacker @Quota](https://www.quora.com/topic/GrowthHacking)
+9. [Growth Hacker @Quora](https://www.quora.com/topic/GrowthHacking)
 
 ##參考書籍（Books）
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力](http://www.books.com.tw/products/0010707245)
