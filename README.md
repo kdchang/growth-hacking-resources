@@ -8,6 +8,7 @@ A collection of growth hacking resources.
 
 ##學習資源（Resources）
 1. [Growth Hacker資訊站](http://growthhackers.com/)
+2. [Startup Masterclass - 7 Lessons From 7 Silicon Valley Gurus](https://www.udemy.com/7-lessons-from-7-product-gurus/)
 
 ##好用工具（Tools）
 1. [Mixpanel](https://mixpanel.com/)
