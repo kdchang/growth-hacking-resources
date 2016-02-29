@@ -30,5 +30,6 @@ A collection of growth hacking resources.
 9. [Growth Hacker @Quora](https://www.quora.com/topic/GrowthHacking)
 
 ##參考書籍（Books）
-1. [成長駭客行銷：引爆集客瘋潮的新實戰力](http://www.books.com.tw/products/0010707245)
-2. [增長黑客](http://zengzhangheike.com/)
+1. [The Lean Series](http://theleanstartup.com/the-lean-series)
+2. [成長駭客行銷：引爆集客瘋潮的新實戰力](http://www.books.com.tw/products/0010707245)
+3. [增長黑客](http://zengzhangheike.com/)
