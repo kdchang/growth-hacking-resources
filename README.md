@@ -6,17 +6,25 @@ A collection of growth hacking resources.
 
 成長駭客(Growth Hacker)是行銷者與開發者的綜合體，當他們看待「我如何為產品找到用戶」這個問題時，答案通常是 A/B 測試、到達頁面、病毒擴散因素、email 到達率以及 Open Graph。
 
-## 學習資源（Resources）
-1. [Growth Hacker資訊站](http://growthhackers.com/)
+## 線上學習資源（Resources）
+1. [Growth Hacker 社群資訊站](http://growthhackers.com/)
 2. [Startup Masterclass - 7 Lessons From 7 Silicon Valley Gurus](https://www.udemy.com/7-lessons-from-7-product-gurus/)
 
 ## 好用工具（Tools）
+- Analytics, A/B Testing Tool
 1. [Mixpanel](https://mixpanel.com/)
 2. [Kissmetrics](https://www.kissmetrics.com/)
 3. [Cohorts](https://cohorts.astronomer.io/)
 4. [customer.io](https://customer.io/)
 5. [Optimizely](https://www.optimizely.com/)
 6. [Google Analytics](http://www.google.com/analytics/)
+
+- Landing Page Tools
+1. [LaunchRock](https://www.launchrock.com/)
+2. [Unbounce](http://unbounce.com/)
+
+- Email Marketing Tool
+1. [Mailchimp](mailchimp.com)
 
 ## 值得關注的部落格和網路名人（People）
 1. [Andrew Chen](http://andrewchen.co)
@@ -28,6 +36,9 @@ A collection of growth hacking resources.
 7. [Aaron Ginn](http://www.aginnt.com)
 8. [Josh Elman](https://medium.com/@joshelman)
 9. [Growth Hacker @Quora](https://www.quora.com/topic/GrowthHacking)
+
+# 參考簡報（Slides）
+1.
 
 ## 參考書籍（Books）
 1. [The Lean Series](http://theleanstartup.com/the-lean-series)
