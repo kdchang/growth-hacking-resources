@@ -37,7 +37,7 @@ A collection of growth hacking resources.
 8. [Josh Elman](https://medium.com/@joshelman)
 9. [Growth Hacker @Quora](https://www.quora.com/topic/GrowthHacking)
 
-# 參考簡報（Slides）
+## 參考簡報（Slides）
 1. [Growth Hacking-Mattan Griffel](http://www.slideshare.net/mattangriffel/growth-hacking)
 
 ## 參考書籍（Books）
