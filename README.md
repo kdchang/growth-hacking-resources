@@ -11,7 +11,7 @@ A collection of growth hacking resources.
 2. [Startup Masterclass - 7 Lessons From 7 Silicon Valley Gurus](https://www.udemy.com/7-lessons-from-7-product-gurus/)
 
 ## 好用工具（Tools）
-- Analytics, A/B Testing Tool
+### Analytics, A/B Testing Tool
 1. [Mixpanel](https://mixpanel.com/)
 2. [Kissmetrics](https://www.kissmetrics.com/)
 3. [Cohorts](https://cohorts.astronomer.io/)
@@ -19,11 +19,11 @@ A collection of growth hacking resources.
 5. [Optimizely](https://www.optimizely.com/)
 6. [Google Analytics](http://www.google.com/analytics/)
 
-- Landing Page Tools
+### Landing Page Tools
 1. [LaunchRock](https://www.launchrock.com/)
 2. [Unbounce](http://unbounce.com/)
 
-- Email Marketing Tool
+### Email Marketing Tool 
 1. [Mailchimp](mailchimp.com)
 
 ## 值得關注的部落格和網路名人（People）
@@ -38,7 +38,7 @@ A collection of growth hacking resources.
 9. [Growth Hacker @Quora](https://www.quora.com/topic/GrowthHacking)
 
 # 參考簡報（Slides）
-1.
+1. []()
 
 ## 參考書籍（Books）
 1. [The Lean Series](http://theleanstartup.com/the-lean-series)
