@@ -1,4 +1,4 @@
-# 成長駭客（Growth Hacker）學習資源彙總
+# 成長駭客/增長黑客（Growth Hacker）學習資源彙總
 A collection of growth hacking resources.  
 
 ##關於 Growth Hacker（About Growth Hacker）
