@@ -16,16 +16,20 @@ A collection of growth hacking resources.
 1. [Mixpanel](https://mixpanel.com/)
 2. [Kissmetrics](https://www.kissmetrics.com/)
 3. [Cohorts](https://cohorts.astronomer.io/)
-4. [customer.io](https://customer.io/)
-5. [Optimizely](https://www.optimizely.com/)
-6. [Google Analytics](http://www.google.com/analytics/)
+4. [Optimizely](https://www.optimizely.com/)
+5. [Google Analytics](http://www.google.com/analytics/)
+6. [Hotjar](https://www.hotjar.com/)
+7. [FullStory](https://www.fullstory.com/)
+8. [Hull](https://www.hull.io/)
 
 ### Landing Page Tools
 1. [LaunchRock](https://www.launchrock.com/)
 2. [Unbounce](http://unbounce.com/)
+3. [Landing Lion](https://www.landinglion.com/)
 
 ### Email Marketing Tool 
 1. [Mailchimp](mailchimp.com)
+2. [Customer.io](https://customer.io/)
 
 ## 值得關注的部落格和網路名人（People）
 1. [Andrew Chen](http://andrewchen.co)
